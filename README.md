@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/112678332/199230261-27e88685-a27a-4b9d-af7c-5e80e1600a43.png)
+![image](./badges/KMITL-1.svg)
 <!--
 **SupaschaiPh/SupaschaiPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

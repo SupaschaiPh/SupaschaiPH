@@ -4,7 +4,9 @@
   <tr>
     <th>
       <div>
-        <a href="https://it0242.ihost.kmitl.ac.th/">Web</a> <a href="/#">Home</a> <a href="/#">Home</a>
+        <a href="https://it0242.ihost.kmitl.ac.th/">Web</a>
+        <a href="https://github.com/SupaschaiPh/SupaschaiPh">Github</a> 
+        <a href="https://gitlab.com/65070242">Gitlab</a>
       </div>
     </th>
   </tr>

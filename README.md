@@ -2,7 +2,7 @@
 
 [![image](./badges/KMITL-1.svg)](https://www.kmitl.ac.th/)
 
-<div align="center"><img src="https://media.tenor.com/6On54eyPJNkAAAAC/run-forrest-puppet.gif" /></div>
+<div align="center"><img src="https://media.tenor.com/SwQ04j5CrQIAAAAC/let-me-out-3doors-down.gif" /></div>
 
 <!--
 **SupaschaiPh/SupaschaiPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
   <tr>
     <th>
       <div>
-        <a href="/#">Home</a> <a href="/#">Home</a> <a href="/#">Home</a>
+        <a href="https://it0242.ihost.kmitl.ac.th/">Web</a> <a href="/#">Home</a> <a href="/#">Home</a>
       </div>
     </th>
   </tr>

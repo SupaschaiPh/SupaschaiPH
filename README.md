@@ -1,4 +1,4 @@
-<h1 align="center"> Hello everybody <img height="22" src="https://avatars.githubusercontent.com/u/112678332" />👋 </h1>
+<h1 align="center"> Hello everybody 👋 </h1>
 
 [![image](./badges/KMITL-1.svg)](https://www.kmitl.ac.th/)
 

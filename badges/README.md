@@ -78,3 +78,28 @@
   ```
   https://cdn.discordapp.com/attachments/1037334987235672096/1037371844803706960/GitHub-11.svg
   ```
++ **GitLab**
+  + 1 [![https://cdn.discordapp.com/attachments/1037334987235672096/1037396398376763493/GitLab-1.svg]](#)
+  ```
+  https://cdn.discordapp.com/attachments/1037334987235672096/1037396398376763493/GitLab-1.svg
+  ```
+  + 2 [![https://cdn.discordapp.com/attachments/1037334987235672096/1037396398573883452/GitLab-2.svg]](#)
+  ```
+  https://cdn.discordapp.com/attachments/1037334987235672096/1037396398573883452/GitLab-2.svg
+  ```
+  + 3 [![https://cdn.discordapp.com/attachments/1037334987235672096/1037396398791991367/GitLab-3.svg]](#)
+  ```
+  https://cdn.discordapp.com/attachments/1037334987235672096/1037396398791991367/GitLab-3.svg
+  ```
+  + 5 [![https://cdn.discordapp.com/attachments/1037334987235672096/1037396399039463455/GitLab-5.svg]](#)
+  ```
+  https://cdn.discordapp.com/attachments/1037334987235672096/1037396399039463455/GitLab-5.svg
+  ```
+  + 6 [![https://cdn.discordapp.com/attachments/1037334987235672096/1037396399278526554/GitLab-6.svg]](#)
+  ```
+  https://cdn.discordapp.com/attachments/1037334987235672096/1037396399278526554/GitLab-6.svg
+  ```
+  + 7 [![https://cdn.discordapp.com/attachments/1037334987235672096/1037396399484051547/GitLab-7.svg]](#)
+  ```
+  https://cdn.discordapp.com/attachments/1037334987235672096/1037396399484051547/GitLab-7.svg
+  ```

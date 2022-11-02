@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-[![image](./badges/KMITL-3.svg)](https://www.kmitl.ac.th/) [![b](./badges/itl-1.svg)](https://www.it.kmitl.ac.th/)
+[![image](./badges/KMITL-5.svg)](https://www.kmitl.ac.th/) [![b](./badges/IT-1.svg)](https://www.it.kmitl.ac.th/)
 
 <div align="center"><img src="https://media.tenor.com/SwQ04j5CrQIAAAAC/let-me-out-3doors-down.gif" /></div>
 

@@ -2,13 +2,13 @@
 
 <table align="center"> 
   <tr>
-    <th>
-      <div>
+    <td>
+      <div align="center" style="overflow:scroll;">
         <a href="https://it0242.ihost.kmitl.ac.th/">Web</a>
         <a href="https://github.com/SupaschaiPh/SupaschaiPh">Github</a> 
         <a href="https://gitlab.com/65070242">Gitlab</a>
       </div>
-    </th>
+    </td>
   </tr>
 </table>
 

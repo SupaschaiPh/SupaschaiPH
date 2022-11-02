@@ -15,6 +15,7 @@
 [![image](https://cdn.discordapp.com/attachments/1037334987235672096/1037358365375991839/KMITL-5.svg)](https://www.kmitl.ac.th/) [![b](https://cdn.discordapp.com/attachments/1037334987235672096/1037358106746822717/IT-1.svg)](https://www.it.kmitl.ac.th/)
 
 [![b](https://cdn.discordapp.com/attachments/1037334987235672096/1037369808884334602/GitHub-7.svg)](https://github.com/SupaschaiPh)
+[![b](https://cdn.discordapp.com/attachments/1037334987235672096/1037396399278526554/GitLab-6.svg)](https://gitlab.com/65070242)
 <div align="center"><img src="https://media.tenor.com/SwQ04j5CrQIAAAAC/let-me-out-3doors-down.gif" /></div>
 
 <!--

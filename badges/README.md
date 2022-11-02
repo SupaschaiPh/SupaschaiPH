@@ -26,17 +26,17 @@
     ```
 + **IT**
   + 1 [![b](./IT-1.svg)](#)
-   ```
-   https://github.com/SupaschaiPh/SupaschaiPh/blob/main/badges/IT-1.svg
-   ```
+    ```
+    https://github.com/SupaschaiPh/SupaschaiPh/blob/main/badges/IT-1.svg
+    ```
   + 2 [![b](./IT-2.svg)](#)
-   ```
-   https://github.com/SupaschaiPh/SupaschaiPh/blob/main/badges/IT-2.svg
-   ```
+    ```
+    https://github.com/SupaschaiPh/SupaschaiPh/blob/main/badges/IT-2.svg
+    ```
   + 3 [![b](./IT-3.svg)](#)
-   ```
-   https://github.com/SupaschaiPh/SupaschaiPh/blob/main/badges/IT-3.svg
-   ```
+    ```
+    https://github.com/SupaschaiPh/SupaschaiPh/blob/main/badges/IT-3.svg
+    ```
 + **GitHub**
   + 1 [![b](https://cdn.discordapp.com/attachments/1036704934432886876/1037365460137693274/GitHub-1.svg)](#)
     ```

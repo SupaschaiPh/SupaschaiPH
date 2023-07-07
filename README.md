@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/636aadc8-adda-40e5-aa51-c19ce4d2a70c" /></div>
+![img](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/636aadc8-adda-40e5-aa51-c19ce4d2a70c)
 
 
 <!--

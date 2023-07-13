@@ -2,6 +2,9 @@
 ![img](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/636aadc8-adda-40e5-aa51-c19ce4d2a70c)
 
 
+|![image](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/ca01b654-a23f-4f6c-bbc5-dc206c0b6582)|![image](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/adb3b6ac-a379-4eaf-b330-445f96449fc7)|![image](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/1a9f0094-727d-4a94-8f09-501245a35379)|
+|-|-|-|
+
 <!--
 **SupaschaiPh/SupaschaiPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,9 +10,6 @@
 - 😄 Pronouns: 🛏️
 - ⚡ Fun fact: 🛏️
 
-# Hello Network
-ลืมลงทะเบียนเรียนล่วงหน้า😭😭😭😭😭😭😭😭😭
-
 <!--
 ## Used
 -->

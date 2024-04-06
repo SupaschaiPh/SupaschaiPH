@@ -1,5 +1,6 @@
+![image](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/57d7ad44-6d58-4aaf-b37a-2a2c11fb39c6)
 
-![img](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/636aadc8-adda-40e5-aa51-c19ce4d2a70c)
+<!--![img](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/636aadc8-adda-40e5-aa51-c19ce4d2a70c)-->
 
 - 🔭 I’m currently working on 🛏️
 - 🌱 I’m currently learning 🛏️

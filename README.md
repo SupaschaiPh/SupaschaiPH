@@ -1,7 +1,7 @@
 <div align="center">
 
- ![image](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/57d7ad44-6d58-4aaf-b37a-2a2c11fb39c6)
- 
+<img src="https://github.com/user-attachments/assets/5a6df2a3-e4f2-408d-87c1-7d8782e295a2" />
+
 </div>
 <!--![img](https://github.com/SupaschaiPh/SupaschaiPh/assets/112678332/636aadc8-adda-40e5-aa51-c19ce4d2a70c)-->
 
